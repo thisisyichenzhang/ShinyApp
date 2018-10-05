@@ -1,5 +1,7 @@
 # ShinyApp - Data Pipeline
 
+Developer: Yichen Zhang
+
 This Shiny App serves as the crucial part of data pipeline. It allows multiple users to enter data throuhg the Shiny App. The formatted data will be stored in the local Rsqlite database. 
 
 ## Implementation 
