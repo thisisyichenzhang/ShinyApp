@@ -22,4 +22,4 @@ runGitHub("ShinyApp", "thisisyichenzhang")
 ```
 
 ## R-portable version 
-This shiny app also has a R-portable version, which does not require the pre-installation of R on your machine (which is good for those have not heard of/used R before). You can simply copy-paste the R-portable folder in your laptop, and run the App with a easy 'Click'. Please contact the author if you are interested in getting the Rportable App.
+This shiny app also has a R-portable version, which does not require the pre-installation of R on your machine (which is good for those have not heard of/used R before). You can simply copy-paste the R-portable folder in your laptop, and run the App with an easy 'Click'. Please contact the author if you are interested in getting the Rportable App.
