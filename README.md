@@ -1,6 +1,7 @@
-# ShinyApp - Data Pipeline
+# ShinyApp - Data Pipeline 1.0.0
 
-Developer: Yichen Zhang
+Developer: Yichen Zhang (zhangyichen93@gmail.com)
+Maintainer: Yichen Zhang (zhangyichen93@gmail.com)
 
 This Shiny App serves as the crucial part of the data pipeline we recently built. It allows multiple users to enter data throuhg the Shiny App. The formatted data will be stored in the local sqlite (a light version of SQL) database. 
 
