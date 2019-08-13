@@ -2,7 +2,7 @@
 
 Developer & Maintainer: Yichen Zhang (zhangyichen93@gmail.com)
 
-This Shiny App serves as the crucial part of the data pipeline we recently built. It allows multiple users to enter data throuhg the Shiny App. The data will be automatically formatted and stored in a local sqlite (a light version of SQL) database. 
+This Shiny App serves as the crucial part of the data pipeline we recently built. It allows multiple users to enter data throuhg the Shiny GUI. The data will be automatically formatted and stored in a local sqlite (a light version of SQL) database. 
 
 ## Implementation 
 To run the app on your machine, simply type the following code in your R console:
