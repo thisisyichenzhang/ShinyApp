@@ -2,13 +2,13 @@
 
 Developer & Maintainer: Yichen Zhang (zhangyichen93@gmail.com)
 
-This Shiny App serves as the crucial part of the data pipeline we recently built. It allows multiple users to enter data throuhg the Shiny GUI. The data will be automatically formatted and stored in a local sqlite (a light version of SQL) database. 
+This Shiny App serves as a crucial part of the data pipeline we recently built. It allows multiple users to enter data through the Shiny GUI. The data will be automatically formatted and stored in a local sqlite (a light version of SQL) database. 
 
 ## Implementation 
 To run the app on your machine, simply type the following code in your R console:
 
 ```{r}
-#If you are the first-time user, please first install and load the following dependent packages 
+#If you are a first-time user, please first install and load the following dependent packages 
 ##install.packages("shiny")
 ##install.packages("shinyjs")
 ##install.packages("RSQLite")
@@ -22,4 +22,4 @@ runGitHub("ShinyApp", "thisisyichenzhang")
 ```
 
 ## R-portable version 
-This shiny app also has a R-portable version, which does not require the pre-installation of R on your machine (which is good for those have not heard of/used R before). You can simply copy-paste the R-portable folder in your laptop, and run the App with an easy 'Click'. Please contact the author if you are interested in getting the Rportable App.
+This shiny app also has an R-portable version, which does not require the pre-installation of R on your machine (which is good for those who have not heard of/used R before). You can simply copy-paste the R-portable folder into your laptop and run the App with an easy 'Click'. Please contact the author if you are interested in getting the Rportable App.
